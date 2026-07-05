@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Brain Graph",
+        "description": "Set up the Brain Graph 3D entity visualization panel"
+      }
+    },
+    "abort": {
+      "already_configured": "Brain Graph is already configured"
+    }
+  }
+}
